@@ -1296,7 +1296,7 @@ body._lock {
   right: 0;
   left: 0;
   height: 577px;
-  background-image: url("../img/guarantee-bg.jpg");
+  background-image: url("../img/guarantee-bg.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1449,7 +1449,7 @@ body._lock {
 .form-wrapper {
   border-radius: 60px;
   overflow: hidden;
-  background: url("../img/form-bg-main.png");
+  background: url("../img/form-bg-main.webp");
   background-repeat: no-repeat;
   background-position: right;
   background-size: cover;
@@ -1459,7 +1459,7 @@ body._lock {
   padding: 70px;
   display: block;
   width: 100%;
-  background: url("../img/form-bg.png");
+  background: url("../img/form-bg.webp");
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;
